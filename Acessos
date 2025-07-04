@@ -1,6 +1,7 @@
 return {
 	["bff0dcfc-2b1a-4e95-9fbe-aa429ca24155"] = { timestamp = math.huge },   -- Biel
 	["f20423b6-c1e6-4ea6-8148-69c5564e26a0"] = { timestamp = math.huge },   -- Eu
+	["44BD1C5C-FCAA-4A5F-A3B0-C280FEEF5EDE"] = { timestamp = math.huge },   -- Eu LINDO DO PC BOM E GOSTOSO
 	["aa443db2-5f2b-46b5-a3c7-d1601d80c024"] = { timestamp = math.huge },   -- JUILO
 	["58152118-7B03-40D0-842B-604D897A8D62"] = { timestamp = math.huge },   -- JUILO PC
 	["c482feac-e456-4391-8a3b-52664291268b"] = { timestamp = math.huge },   -- Misterio
